@@ -5,7 +5,7 @@ It is recommended to use tensorflow-gpu to get better fps (frame per second).
 Download the folder from the google drive and turn on the command prompt from that folder then write the following command. 
 The link of the google drive link is given below.
 
-https://drive.google.com/drive/u/1/folders/0AOKQz5jIn7yLUk9PVA?ogsrc=32
+https://drive.google.com/open?id=1W4aotquGkE0HPeseF-SCriCiHPEjAL1I
 
 If you are using tensorflow-gpu then write –gpu 0.7 other than that avoid that part only. 
 In the command part testVideo refer to the video you want to test, and camera is referring to the web camera of the device.
